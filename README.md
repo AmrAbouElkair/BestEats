@@ -13,8 +13,8 @@ This is a landing page for a restaurant website developed using ReactJs with Typ
 |                                         |                                                 |
 | ------------------------------------------------------- | :-----------------------------------------------------: |
 |       ![2](https://github.com/AmrAbouElkair/BestEats/assets/83710148/dea4d906-2665-471c-9ad3-404d5f89c6d0)   |       ![6](https://github.com/AmrAbouElkair/BestEats/assets/83710148/58641279-7858-4547-aa7a-fb0dbbe2e803) |
-|     ![3](https://github.com/AmrAbouElkair/BestEats/assets/83710148/1af89652-b978-435d-a7d3-9b331be3776d)   |                         ![7](https://github.com/AmrAbouElkair/BestEats/assets/83710148/f3385357-cc30-4bce-a701-a20c84454782) |
-|         ![4](https://github.com/AmrAbouElkair/BestEats/assets/83710148/e4b5df98-5c1c-4a7d-80ce-05ddd7ac3e20)     |                     ![8](https://github.com/AmrAbouElkair/BestEats/assets/83710148/4d6446ad-2e18-4527-9923-e5af16a12f12) |
+|     ![3](https://github.com/AmrAbouElkair/BestEats/assets/83710148/1af89652-b978-435d-a7d3-9b331be3776d)   |         ![7](https://github.com/AmrAbouElkair/BestEats/assets/83710148/f3385357-cc30-4bce-a701-a20c84454782) |
+|   ![8](https://github.com/AmrAbouElkair/BestEats/assets/83710148/4d6446ad-2e18-4527-9923-e5af16a12f12)     |  ![4](https://github.com/AmrAbouElkair/BestEats/assets/83710148/e4b5df98-5c1c-4a7d-80ce-05ddd7ac3e20)   |
 
 ## Introduction
 
