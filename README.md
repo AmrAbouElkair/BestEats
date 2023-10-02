@@ -1,4 +1,4 @@
-# Nike Store LandingPage
+# Best Eats
 
 This is a landing page for a restaurant website developed using ReactJs with Typescript & Tailwind with all its amazing features with simple filtering methods.
 **You can see it here: _[Best Eats](https://best-eats-4oujfvxtd-amrabouelkair.vercel.app/)_**
